@@ -164,7 +164,7 @@ project_directory/
 
 ### Run the script `main.py`:
 ```bash
-python main.py
+python3 main.py
 ```
 
 ## Additional Tips
