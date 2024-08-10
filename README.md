@@ -1,4 +1,4 @@
-# Query-processing-and-answer-generation
+# Query-processing-and-answer-generation on Mac
 
 ## Index
 1. [Initial Arrangements](#initial-arrangements)
